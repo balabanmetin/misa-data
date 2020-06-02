@@ -8,7 +8,7 @@ Three datasets are analysed in the paper: Yeast, Drosophila, and Lice. These dat
 
 https://drive.google.com/drive/folders/1BvreUveGxrf5ST8Vyi5_EtGXMx_-3sI-
 
-The Google Drive director includes a readme file and a BZIP2 archive for each dataset, describing contents of the archive. Scripts used in analysis of each dataset is located in their respective archive.
+The Google Drive directory includes a readme file and a BZIP2 archive for each dataset, describing contents of the archive. Scripts used in analysis of each dataset is located in their respective archive.
 
 Some of the scripts used in all three datasets (Yeast, Lice, Drosophila) can be found in `scripts` folder. 
 

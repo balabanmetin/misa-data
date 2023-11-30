@@ -6,7 +6,7 @@ Metin Balaban and Siavash Mirarab. “Phylogenetic double placement of mixed sam
 
 Three datasets are analysed in the paper: Yeast, Drosophila, and Lice. These datasets are uploaded to following Dryad repository:
 
-https://doi.org/doi:10.6076/D1QW25
+https://doi.org/10.6076/D1QW25
 
 The repository includes a readme file and a BZIP2 archive for each dataset, describing contents of the archive. Scripts used in analysis of each dataset is located in their respective archive.
 
